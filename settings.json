@@ -1,12 +1,12 @@
 {
   "tokens": {
-    "main": "",
+    "main": "mfa.HOXwMLl_GDH1oRBeHruXX0s4dKQdJQLinQmE-vCwtusa4G3cqgWw_UmRcPTM3s7_xzjl2aKQiDHntTRMjzWO",
     "alts": [
-      ""
+   "OTU4ODI5NzE1NzI3MjEyNTk0.YkTB7A.3aMLgoXblLDal51XfqnB8sDjcqc"
     ]
   },
   "status": {
-    "main": "",
+    "main": "online",
     "alts": "invisible"
   },
   "nitro": {
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/958830449692655696/-lALfGurK1baj-3olecWUWPeWYaDwPH4SaUoa9XQ_8qRpGcXIXsifA3oi1FdPbvhS7dD",
     "good_only": false
   },
   "blacklist_servers": []
